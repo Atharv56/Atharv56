@@ -1,6 +1,6 @@
 <h1 align="center">Greetings! 👋, I'm Atharv Salian</h1>
 <h3 align="center">Aspiring Engineer</h3>
-
+<img align="right" alt="GIF" src="" width="320" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv56&label=Profile%20views&color=0e75b6&style=flat" alt="atharv56" /> </p>
 
 - 🔭 I’m currently working on [ML & AI projects](https://github.com/Atharv56/AI-ML.git)
@@ -24,7 +24,7 @@
 <h3>Stats: <h3>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=atharv56&show_icons=true&locale=en" alt="atharv56" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv56&show_icons=true&locale=en&layout=compact" alt="atharv56" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv56&show_icons=true&locale=en&theme=dark" alt="atharv56" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv56&show_icons=true&locale=en&layout=compact&theme=dark" alt="atharv56" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv56&" alt="atharv56" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv56&theme=dark" alt="atharv56" /></p>
