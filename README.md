@@ -1,6 +1,6 @@
 <h1 align="center">Greetings! 👋, I'm Atharv Salian</h1>
 <h3 align="center">Aspiring Engineer</h3>
-<img align="right" alt="GIF" src="" width="320" height="320" />
+<img align="right" alt="GIF" src="gif.mp4" width="320" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv56&label=Profile%20views&color=0e75b6&style=flat" alt="atharv56" /> </p>
 
 - 🔭 I’m currently working on [ML & AI projects](https://github.com/Atharv56/AI-ML.git)
